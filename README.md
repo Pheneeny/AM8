@@ -15,19 +15,19 @@ Ideally, your Anet A8 is not your only printer, so that rebuilding it does not l
 
 Build this at your own risk.
 
-#####Optional Parts
+##### Optional Parts
 The Anet Board Mount can be printed with or without an 80mm fan mount attached. I recommend mounting a fan to help keep the board cool. Any 80mm computer fan should work. If you are using a fan, please print or buy fan guards to prevent fingers or wires from going into the fan.
 
-#####Additional Parts:
+##### Additional Parts:
 [T-Slot Wire Cover](https://www.thingiverse.com/thing:832077)
 [E3D V6 Mount](https://www.thingiverse.com/thing:2316850)
 ___
-#####Update 10/21/17
+##### Update 10/21/17
 Fixed broken Misumi links in BOM.
 Added shorter bed screws to BOM to avoid interference with Y rod holders.
-#####Update 5/13/17
+##### Update 5/13/17
 Added E3D V6 Mount link
-#####Update 5/6/17
+##### Update 5/6/17
 Uploaded fixed STLs for the the following files:
 Z_Motor_Mount_Right
 Z_Motor_Mount_Left
@@ -36,10 +36,10 @@ Z_Endstop
 Anet_Board_Mount_No_Fan
 
 All of the old files can be found in the old_stl.zip file
-#####Update 4/28/17
+##### Update 4/28/17
 Added Fusion 360 Design files
-#####Update 4/22/17
+##### Update 4/22/17
 Added missing link for M5 Square nut to BOM.
 
 
-#[Thingiverse mirror](https://www.thingiverse.com/thing:2263216)
+# [Thingiverse mirror](https://www.thingiverse.com/thing:2263216)
